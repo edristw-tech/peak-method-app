@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Peak Method",
+    "slug": "peak-method",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {"backgroundColor": "#f6f9f7"},
+    "ios": {"supportsTablet": true, "bundleIdentifier": "com.peakmethod.fitness"},
+    "android": {"package": "com.peakmethod.fitness", "adaptiveIcon": {"backgroundColor": "#168454"}},
+    "web": {"bundler": "metro"}
+  }
+}
